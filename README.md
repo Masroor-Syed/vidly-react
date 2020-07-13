@@ -12,8 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [npm run eject](#npm-run-eject)
 
 ## About
-The front end of the vidly app. Made this app as part of Mosh Hamedani [https://codewithmosh.com/p/mastering-react](React course).
-The app is hosted on heroku. [https://agile-waters-03561.herokuapp.com/movies](Open App)
+The front end of the vidly app. Made this app as part of Mosh Hamedani's React course (https://codewithmosh.com/p/mastering-react).
+The app is hosted on heroku.Link to the app: https://agile-waters-03561.herokuapp.com/movies.
 ## Available Scripts
 
 In the project directory, you can run:
