@@ -1,15 +1,12 @@
-## Table of Contents
+## Introduction
 
-- [About](#about)
-- [Available Scripts](#available-scripts)
-  - [npm start](#npm-start)
-  - [npm test](#npm-test)
-  - [npm run build](#npm-run-build)
-  - [npm run eject](#npm-run-eject)
+This project is the backend of Vidly, an imaginary video rental app. This project is made via Code With Mosh React and Node..js courses:
 
-## About
-The front end of the vidly app. Made this app as part of Mosh Hamedani's React course (https://codewithmosh.com/p/mastering-react).
-The app is hosted on heroku.Link to the app: https://agile-waters-03561.herokuapp.com/movies.
+- https://codewithmosh.com/p/mastering-react
+- https://codewithmosh.com/p/the-complete-node-js-course
+
+Link to the App hosted on heroku: https://agile-waters-03561.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
